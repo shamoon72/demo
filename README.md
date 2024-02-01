@@ -1,2 +1,3 @@
 # demo
-This is a demo repo
+This is my first Git Repository.
+Author - Shamoon Momin
